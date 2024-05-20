@@ -1,0 +1,7 @@
+Nombre:  David Alfredo Parada Mendoza 
+Grupo:   02 
+Docente: Daniel Edenilson Lopez Moran
+Link:    https://github.com/davidApM/Proyecto_DEC_Ensamblador
+
+Nota: 
+No hice la entrada de datos porque en el documento no especificaba la entrada de datos. 
